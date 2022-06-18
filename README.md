@@ -6,8 +6,13 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/its-mohdanas/)
 - 😄 Pronouns: He/His
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://github-readme-stats.vercel.app/api?username=its-mohdanas&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=its-mohdanas&&show_icons=true&theme=dracula)
+
 
 
 
