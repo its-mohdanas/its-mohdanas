@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on Kaggle.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/its-mohdanas/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)] -->
 
