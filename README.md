@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-mohdanas&layout=compact&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=its-mohdanas&&show_icons=true&theme=dracula)
+<!--![](https://github-readme-stats.vercel.app/api?username=its-mohdanas&&show_icons=true&theme=dracula)-->
 
 <!-- &theme=tokyonight -->
 
